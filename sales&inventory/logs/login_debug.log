@@ -1,0 +1,2 @@
+[2025-11-17 09:32:05] Login prepare() failed: Table 'fastfood_inventory.users' doesn't exist -- Query: SELECT id, username, password_hash, role FROM users WHERE username = ? LIMIT 1
+[2025-11-17 09:32:48] Login prepare() failed: Table 'fastfood_inventory.users' doesn't exist -- Query: SELECT id, username, password_hash, role FROM users WHERE username = ? LIMIT 1
